@@ -6,7 +6,7 @@
 	url = https://github.com/free5gc/ausf.git
 [submodule "n3iwf"]
 	path = NFs/n3iwf
-	url = https://github.com/free5gc/n3iwf.git
+	url = git@github.com:LENSS/n3iwf.git
 [submodule "nrf"]
 	path = NFs/nrf
 	url = https://github.com/free5gc/nrf.git
